@@ -35,6 +35,23 @@ const Work = () => {
             date: "29 Aug 2023",
             link:"https://in.docworkspace.com/d/sAMgXjNDDwf7cAY6mxKmypxQ"
         },
+
+
+        {
+            title: "HackerRank Javascript Certification",
+            description: "Earned certification for sucessfully by solving problems statements related to javascript.",
+            imgSrc: "/hr.png",
+            date: "20 Jan 2025",
+            link:"https://www.hackerrank.com/certificates/iframe/c33b4e66d2c3"
+        },
+        {
+            title: "HackerRank Java Certification",
+            description: "Earned certification for sucessfully by solving problems statements related to java.",
+            imgSrc: "/hr.png",
+            date: "20 Jan 2025",
+            link:"https://www.hackerrank.com/certificates/iframe/eb0451d6d5fb"
+        },
+        
     ];
 
     const photos = [
