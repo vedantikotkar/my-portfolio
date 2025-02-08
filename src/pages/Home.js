@@ -11,7 +11,7 @@ const Home = () => {
     };
 
     const handleViewResume = () => {
-        window.open("/Myresume.docx", "_blank"); 
+        window.open("/Myresume.pdf", "_blank"); 
     };
 
     return (
